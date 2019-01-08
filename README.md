@@ -7,7 +7,7 @@ interrupt (GPIO_EXT…) in izhod za zeleno LED. Zapišite izbrana pina:
 GPIO_EXTI0 -> PA0 ter zelena led PC9 in modra led PC8
 
 
-kyleV5
+kyle V5
 
 
 c) Znotraj te funkcije zapišite ukaz za vklop/izklop zelene LED (pomagajte si z metodo toggle, glej vaja0a).
